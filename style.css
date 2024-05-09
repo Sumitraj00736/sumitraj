@@ -253,6 +253,9 @@ nav ul li a:hover::after{
 .contact-right{
     flex-basis:60% ;
 }
+.fa-solid fa-envelope, fa-solid fa-phone-volume{
+    color: white;
+}
 .contact-left p{
     margin-top: 30px;
      color: white;
